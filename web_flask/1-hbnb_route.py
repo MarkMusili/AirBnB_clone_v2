@@ -10,10 +10,11 @@ def hello_hbnb():
     """Function to return a string"""
     return 'Hello HBNB!'
 
+
 @app.route('/hbnb', strict_slashes=False)
 def hbnb():
     """Function to return a string"""
-    return 'HBNB!'
+    return 'HBNB'
 
 
 if __name__ == '__main__':
