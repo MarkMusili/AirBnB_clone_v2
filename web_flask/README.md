@@ -1,0 +1,1 @@
+This folder uses the flask web framework to bring our website to be live on the web
